@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vibhishan06
-- 👀 I’m interested in C
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning MS Excel, SQL, Power BI
+- 💞️ I’m looking to collaborate on MS Excel, SQL, Power BI
 - 📫 How to reach me 8789410080
 
 <!---
