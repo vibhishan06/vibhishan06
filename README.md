@@ -6,8 +6,8 @@
 
 ## 🚀 About Me  
 - 👀 I’m passionate about **Data Analysis** and turning raw data into meaningful insights  
-- 🌱 Currently learning: **MS Excel | SQL | Power BI**  
-- 💡 Exploring projects in: **Data Visualization, Dashboards, and Business Intelligence**  
+- 🌱 Currently learning: **MS Excel | SQL | Power BI | Python**  
+- 💡 Exploring projects in: **Data Analysis, Data Visualization, Dashboards, and Business Intelligence**  
 - 🤝 Looking to collaborate on: **Excel, SQL, and Power BI Projects**  
 
 ---
